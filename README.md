@@ -1,1 +1,1 @@
-# Repositorio pruebas SQL - Bootcamp Testing y Automatización MindHub
+Repositorio pruebas SQL - Bootcamp Testing y Automatización MindHub
